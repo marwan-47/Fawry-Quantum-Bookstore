@@ -33,7 +33,7 @@ A Java-based bookstore management system that handles various book types, invent
 ##  Contact
 
 Marwan Ahmed  
- marwanahmedhassen@gmail.com  
+ marwanhassen999@gmail.com  
  [LinkedIn](https://www.linkedin.com/in/marwan0/)
 
 > Built with Java. Designed for learning. Ready for scaling.
